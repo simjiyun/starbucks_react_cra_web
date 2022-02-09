@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/starbucks_react_cra_web/static/js/main.c396846a.js",
+    "static/js/787.d83f0b62.chunk.js": "/starbucks_react_cra_web/static/js/787.d83f0b62.chunk.js",
+    "index.html": "/starbucks_react_cra_web/index.html",
+    "main.c396846a.js.map": "/starbucks_react_cra_web/static/js/main.c396846a.js.map",
+    "787.d83f0b62.chunk.js.map": "/starbucks_react_cra_web/static/js/787.d83f0b62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c396846a.js"
+  ]
+}
